@@ -1,6 +1,10 @@
 
 个人简介
 
+<div align="left">
+  <img src="https://haowallpaper.com/link/common/file/previewFileImg/17758077670051200" width="200" height="200" style="border-radius: 50%"/>
+</div>
+
 > *"游戏作为第九艺术，定能在未来大放光彩"*
 
 #  你好，我是 WindAfterglower！
